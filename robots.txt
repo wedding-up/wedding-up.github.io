@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://wedding-up.github.io/sitemap.xml
